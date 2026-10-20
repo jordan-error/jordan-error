@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey there👋
+
+I'm Jordan, a Computer Science Student from Sunway University
+
+This is a fresh profile where I will be uploading some of my small projects, experiments and thing's I'm currently working on. Everything on this page is built from scratch
+
 
 <!--
 **jordan-error/jordan-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
